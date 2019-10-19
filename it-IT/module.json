@@ -1,7 +1,7 @@
 {
   "name": "FoundryVTT - it-IT",
   "title": "Italian Translation",
-  "description": "Add Italian (ITALY) language to FoundryVTT.",
+  "description": "Add Italian language to FoundryVTT.",
   "version": 0.1,
   "author": "Simone",
   "scripts": [],
@@ -10,7 +10,7 @@
     
   "languages": [{
   	"lang": "it",
-    "name": "Italian (ITALY)",
+    "name": "Italian",
     "path": "it.json"
   }],
     
