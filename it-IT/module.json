@@ -15,6 +15,6 @@
   }],
     
   "url": "https://gitlab.com/riccisi/foundryvtt-lang-it-it",
-  "manifest": "https://gitlab.com/baktov.sugar/foundryvtt-lang-fr-fr/raw/master/fr-FR/module.json",
-  "download": "https://gitlab.com/baktov.sugar/foundryvtt-lang-fr-fr/-/jobs/artifacts/master/raw/fr-FR.zip?job=build"
+  "manifest": "https://gitlab.com/riccisi/foundryvtt-lang-it-it/raw/master/it-IT/module.json",
+  "download": "https://gitlab.com/riccisi/foundryvtt-lang-it-it/-/jobs/artifacts/master/raw/it-IT.zip?job=build"
 }
