@@ -1,0 +1,2 @@
+# FoundryVTT lang it-IT
+
