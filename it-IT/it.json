@@ -353,8 +353,8 @@
   "SETUP.UpdateTitle": "Aggiorna software principale",
   "SETUP.Uninstall": "Disinstalla",
   "SETUP.WorldCreate": "Nuovo Mondo di Gioco",
-  "SETUP.WorldEdit": "Modifica Mondo di Gioco",
-  "SETUP.WorldLaunch": "Avvia Mondo di Gioco",
+  "SETUP.WorldEdit": "Modifica",
+  "SETUP.WorldLaunch": "Avvia",
   "SETUP.Worlds": "Mondi di Gioco",
 
   "SHEETS.EntitySheetHint": "Sostituisci la scheda che desideri utilizzare per questa specifica entità.",
