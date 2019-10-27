@@ -57,6 +57,7 @@
   "CHAT.RollDefault": "Modalità Predefinita Tiro",
   "CHAT.RollPublic": "Tiro Pubblico",
   "CHAT.RollPrivate": "Tiro Privato (DM)",
+  "CHAT.RollTables": "Tabelle",
 
   "COMBAT.Begin": "Inizia Combattimento",
   "COMBAT.Create": "Nuovo Incontro",
@@ -89,8 +90,11 @@
   "COMPENDIUM.Name": "Nome Compendium",
   "COMPENDIUM.Create": "Nuovo Compendium",
   "COMPENDIUM.CreateHint": "Crea un nuovo Compendium nell'attuale Mondo Di Gioco.",
+  "COMPENDIUM.Delete": "Elimina Compendium",
   "COMPENDIUM.Type": "Tipo Entità",
   "COMPENDIUM.TypeHint": "Ciascun Compendium contiene uno specifico tipo di Entità.",
+  "COMPENDIUM.MarkPublic": "Rendi Pubblico",
+  "COMPENDIUM.MarkPrivate": "Rendi Privato",
 
   "CONTROLS.GroupBasic": "Controlli di Base",
   "CONTROLS.BasicSelect": "Seleziona Tokens",
@@ -213,7 +217,7 @@
   "HUD.ToBack": "Porta in Secondo Piano",
 
   "JOURNAL.Search": "Ricerca Annotazioni",
-  "JOURNAL.Create": "Nuova Annotazione",
+  "JOURNAL.Create": "Nuova Nota",
 
   "MENU.Reload": "Ricarica Applicazione",
   "MENU.Logout": "Disconnetti",
@@ -225,8 +229,10 @@
   "MODMANAGE.Instructions": "Usa questa sezione per configurare quali moduli sono attivi nel mondo di gioco attuale. L'invio delle modifiche ai moduli attivi farà ricaricare la sessione corrente.",
   "MODMANAGE.Submit": "Aggiorna Moduli",
 
+  "PLAYERS.Title": "Giocatori",
   "PLAYERS.CharSelect": "Seleziona Personaggio",
   "PLAYERS.CharRelease": "Rilascia Personaggio",
+  "PLAYERS.ConfigTitle": "Configurazione Giocatore",
   "PLAYERS.PlayerColor": "Colore Giocatore",
   "PLAYERS.SaveConfig": "Salva Configurazione",
 
@@ -244,6 +250,7 @@
   "PLAYLIST.SoundDelete": "Elimina Audio",
   "PLAYLIST.SoundLoop": "Ciclo Continuo",
   "PLAYLIST.SoundPlay": "Riproduci Audio",
+  "PLAYLIST.SoundPreload": "Preload Sound",
   "PLAYLIST.SoundVolume": "Volume Audio",
   "PLAYLIST.SoundStop": "Ferma Audio",
   "PLAYLIST.Stop": "FErma Playlist",
@@ -393,7 +400,27 @@
   "SIDEBAR.TabSettings": "Impostazioni di Gioco",
   "SIDEBAR.TokenArt": "Mostra Immagine Token",
   "SIDEBAR.JumpPin": "Vai al Pin",
-  
+
+  "TABLE.AnimateSetting": "Animazione?",
+  "TABLE.AnimateSettingHint": "Configurare se visualizzare un'animazione in stile roulette quando si tira su una Tabella.",
+  "TABLE.Create": "Nuova Tabella",
+  "TABLE.DisplayRoll": "Visualizza il tiro nella Chat?",
+  "TABLE.Formula": "Formula Tiro",
+  "TABLE.Search": "Cerca Tabelle",
+  "TABLE.SheetTitle": "Configurazione Tabelle di Tiro",
+  "TABLE.Normalize": "Normalizza i pesi dei risultati",
+  "TABLE.Replacement": "Mostra sostituzione?",
+  "TABLE.Reset": "Ripristina",
+  "TABLE.ResultCreate": "Aggiungi Risultato",
+  "TABLE.ResultType": "Tipo Risultato",
+  "TABLE.ResultDetails": "Dettaglio Risultato",
+  "TABLE.ResultDelete": "Elimina Risultato",
+  "TABLE.ResultWeight": "Peso",
+  "TABLE.ResultRange": "Intervallo",
+  "TABLE.Roll": "Tiro",
+  "TABLE.ToggleDrawn": "Attiva / disattiva stato visualizzato",
+  "TABLE.Update": "Aggiorna",
+
   "TOKEN.Assign": "Assegna Token",
   "TOKEN.CharActor": "Personaggio Rappresentato",
   "TOKEN.CharDisposition": "Disposition Token",
@@ -437,5 +464,8 @@
   "WALLS.Direction": "Direzione della Parete",
   "WALLS.Door": "E' una Porta?",
   "WALLS.DoorState": "Stato della Porta",
-  "WALLS.Submit": "Aggiorna Parete"
+  "WALLS.Submit": "Aggiorna Parete",
+
+  "WORLD.DetailTab": "Dettaglio Mondo",
+  "WORLD.DescTab": "Descrizione Mondo"
 }
