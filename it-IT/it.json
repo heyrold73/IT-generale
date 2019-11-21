@@ -44,7 +44,7 @@
   "Yes": "Si",
 
   "ACTOR.Title": "Elenco Personaggi",
-  "ACTOR.Create": "Nuovo PG/NPG",
+  "ACTOR.Create": "Nuovo PG/PNG",
   "ACTOR.Search": "Ricerca Personaggi",
 
   "CHAT.Clear": "Pulisci Chat",
@@ -234,7 +234,9 @@
   "PLAYERS.CharRelease": "Rilascia Personaggio",
   "PLAYERS.ConfigTitle": "Configurazione Giocatore",
   "PLAYERS.PlayerColor": "Colore Giocatore",
+  "PLAYERS.PlayerAvatar": "Avatar Giocatore",
   "PLAYERS.SaveConfig": "Salva Configurazione",
+  "PLAYERS.ViewAvatar": "Visualizza Avatar Giocatore",
 
   "PLAYLIST.Create": "Crea Playlist",
   "PLAYLIST.Delete": "Elimina Playlist",
@@ -250,13 +252,13 @@
   "PLAYLIST.SoundDelete": "Elimina Audio",
   "PLAYLIST.SoundLoop": "Ciclo Continuo",
   "PLAYLIST.SoundPlay": "Riproduci Audio",
-  "PLAYLIST.SoundPreload": "Preload Sound",
+  "PLAYLIST.SoundPreload": "Precarica Suono",
   "PLAYLIST.SoundVolume": "Volume Audio",
-  "PLAYLIST.SoundStop": "Ferma Audio",
-  "PLAYLIST.Stop": "FErma Playlist",
+  "PLAYLIST.SoundStop": "Arresta Audio",
+  "PLAYLIST.Stop": "Arresta Playlist",
   "PLAYLIST.VolPlaylist": "Playlists",
-  "PLAYLIST.VolAmbient": "Ambient",
-  "PLAYLIST.VolInterface": "Interface",
+  "PLAYLIST.VolAmbient": "Ambiente",
+  "PLAYLIST.VolInterface": "Interfaccia",
 
   "SCENES.Access" : "Accessi",
   "SCENES.AccessHint" : "Controlla l'autorizzazione per questa scena e se appare nella barra di navigazione.",
@@ -323,6 +325,8 @@
   "SETTINGS.PDoorL": "Permetti ai giocatori di interagire con le porte. Se questa opzione è disabilitata, le icone delle porte saranno visibili per indicare che è presente una porta, ma solo gli utenti GM potranno aprirle o chiuderle.",
   "SETTINGS.CBubN": "Abilita Chat Bubbles",
   "SETTINGS.CBubL": "Configura se visualizzare le chat bubbles sopra i token per i messaggi di chat di tipo in-character e emote.",
+  "SETTINGS.CBubPN": "Focus al Token Parlante",
+  "SETTINGS.CBubPL": "Configurare se eseguire automaticamente il focus della telecamera su un token parlante quando viene visualizzata una chat bubble.",
   "SETTINGS.SMesgN": "Permetti Messaggi Segreti",
   "SETTINGS.SMesgL": "Permetti ai giocatori di inviare messaggi segreti tra loro che il Dungeon Master non può vedere. Se questa opzione è disabilitata, gli utenti GM potranno vedere il contenuto dei messaggi segreti che i giocatori si scambiano l'un l'altro.",
   "SETTINGS.SoftSN": "Abilita Ombreggiatura Sfumata",
@@ -356,6 +360,10 @@
   "SETUP.WorldEdit": "Modifica",
   "SETUP.WorldLaunch": "Avvia",
   "SETUP.Worlds": "Mondi di Gioco",
+  "SETUP.RequireUpdate": "Necessario Update",
+  "SETUP.RequireSystem": "Necessario Update di Sistema",
+  "SETUP.RequireDep": "Dipendenza Necessaria",
+  "SETUP.RequireCore": "Necessario Core Update",
 
   "SHEETS.EntitySheetHint": "Sostituisci la scheda che desideri utilizzare per questa specifica entità.",
   "SHEETS.TypeSheetHint": "Impostare la scheda predefinita utilizzata per questo tipo di entità (Solo DM).",
@@ -381,7 +389,7 @@
   "FOLDER.Update": "Aggiorna Cartella",
 
   "SIDEBAR.Import": "Importa Dati",
-  "SIDEBAR.Permissions": "Configura Permissi",
+  "SIDEBAR.Permissions": "Configura Permessi",
 
   "SIDEBAR.SceneActivate":  "Attiva Scena",
   "SIDEBAR.SceneConfig": "Configura Scena",
