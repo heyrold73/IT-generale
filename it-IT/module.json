@@ -3,7 +3,7 @@
   "title": "Italian Translation",
   "description": "Add Italian language to FoundryVTT.",
   "version": "0.2",
-  "minimumCoreVersion" : "0.4.0",
+  "minimumCoreVersion" : "0.4.5",
   "author": "Simone",
   "scripts": [],
   "styles": [],
