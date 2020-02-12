@@ -306,6 +306,8 @@
   "SCENES.Pixels" : "Pixels",
   "SCENES.Preload": "Precarica Scena",
   "SCENES.SceneName": "Nome Scena",
+  "SCENES.JournalNotes": "Annotazioni",
+  "SCENES.JournalNotesHint": "Annotazione collegata contenente le note per il Game Master su questa scena.",
   "SCENES.ShowNav" : "Mostra nella Navigazione",
   "SCENES.ShiftHorz" : "Offset Orizzontale",
   "SCENES.ShiftVert" : "Offset Verticale",
