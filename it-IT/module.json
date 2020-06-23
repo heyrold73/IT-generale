@@ -2,7 +2,7 @@
   "name": "FoundryVTT - it-IT",
   "title": "Italian Translation",
   "description": "Add Italian language to FoundryVTT.",
-  "version": "0.9",
+  "version": "0.91",
   "minimumCoreVersion" : "0.6.2",
   "compatibleCoreVersion":"0.6.2",
   "author": "Simone",
