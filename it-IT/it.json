@@ -46,9 +46,11 @@
   "XCoord": "Coordinate X",
   "YCoord": "Coordinate Y",
   "Yes": "Si",
+
   "ACTOR.Title": "Elenco Personaggi",
   "ACTOR.Create": "Nuovo PG/PNG",
   "ACTOR.Search": "Ricerca Personaggi",
+
   "CHAT.Clear": "Pulisci Chat",
   "CHAT.Export": "Esporta Chat",
   "CHAT.FlushTitle": "Invia Chat",
@@ -62,6 +64,7 @@
   "CHAT.RollPrivate": "Tiro Privato (DM)",
   "CHAT.RollSelf": "Tiro Personale",
   "CHAT.RollTables": "Tabelle",
+
   "COMBAT.Begin": "Inizia Combattimento",
   "COMBAT.Create": "Nuovo Incontro",
   "COMBAT.Delete": "Elimina Incontro",
@@ -90,6 +93,7 @@
   "COMBAT.TurnEnd": "Fine Turno",
   "COMBAT.TurnNext": "Turno Successivo",
   "COMBAT.TurnPrev": "Turno Precedente",
+
   "COMPENDIUM.Name": "Nome Compendium",
   "COMPENDIUM.Create": "Nuovo Compendium",
   "COMPENDIUM.CreateHint": "Crea un nuovo Compendium nell'attuale Mondo Di Gioco.",
@@ -102,6 +106,7 @@
   "COMPENDIUM.ToggleVisibility": "abilita/disabilita visibilità",
   "COMPENDIUM.ToggleLocked": "abilita/disabilita blocco modifica",
   "COMPENDIUM.ToggleLockedWarning": "Stai tentando di sbloccare un compendium per modificarlo che non appartiene a questo mondo. Eventuali modifiche apportate a questo compendium potrebbero andare perse se il sistema o il modulo proprietario lo aggiorna. Potresti invece duplicare il compendium nel tuo mondo. Desideri procedere?",
+
   "CONTROLS.Title": "Elenco Controlli di Gioco",
   "CONTROLS.Instructions": "In questo elenco sono descritti i comandi predefiniti mouse/tastiera utilizzati per controllare vari aspetti dell'ambiente da tavolo virtuale di Foundry. Alcuni controlli sono disponibili solo per un utente GameMaster, quelli sono evidenziati in viola chiaro.",
   "CONTROLS.GroupBasic": "Controlli di Base",
@@ -152,6 +157,7 @@
   "CONTROLS.NoteSelect": "Seleziona Annotazione",
   "CONTROLS.NoteToggle": "Attiva/Disattiva Visualizzazione Annotazioni",
   "CONTROLS.NoteClear": "Rimuovi Annotazione",
+
   "CONTROLS.HeaderGame": "Controlli Di Gioco Generali",
   "CONTROLS.HeaderGameNotes": "I controlli seguenti sono generalmente applicabili nei vari aspetti delle funzionalità di Foundry.",
   "CONTROLS.HeaderCanvas": "Controlli Livello Area di Gioco",
@@ -162,10 +168,12 @@
   "CONTROLS.HeaderSpecialNotes": "Questi controlli sono applicabili solo durante specifiche interazioni.",
   "CONTROLS.MouseControls": "Controlli Mouse",
   "CONTROLS.KeyboardControls": "Controlli Tastiera",
+
   "CONTROLS.GameMenu": "Attiva/Disattiva il Menu Principale",
   "CONTROLS.GameClose": "Chiudi le Finestre Aperte",
   "CONTROLS.GamePause": "ttiva/Disattiva la Pausa di Gioco",
   "CONTROLS.CanvasCancel": "Annulla la Mossa in Sospeso",
+
   "CONTROLS.CanvasMove": "Muovi gli Oggetti",
   "CONTROLS.CanvasPan": "Ruota Area di Gioco",
   "CONTROLS.CanvasSelect": "Seleziona gli Oggetti",
@@ -176,11 +184,13 @@
   "CONTROLS.LeftClick": "Click Sinistro",
   "CONTROLS.LeftClick2": "Doppio Click Sinistro",
   "CONTROLS.LeftDrag": "Click Sinistro e Trascina",
+
   "CONTROLS.Double": "Doppio",
   "CONTROLS.RightClick": "Click Destro",
   "CONTROLS.Drag": "Trascina",
   "CONTROLS.Drop": "Rilascia",
   "CONTROLS.During": "durante",
+
   "CONTROLS.KeyHighlight": "Evidenzia gli Oggetti sull'Area di Gioco",
   "CONTROLS.KeyPan": "Ruota Area di Gioco",
   "CONTROLS.KeyZoomIn": "Zoom In",
@@ -194,11 +204,13 @@
   "CONTROLS.KeyPaste": "Incolla gli Elementi sull'Area di Gioco",
   "CONTROLS.KeyUndo": "Annulla Operazione sull'Area di Gioco",
   "CONTROLS.KeyHotbar": "Attiva Hotbar",
+
   "CONTROLS.RulerTitle": "Misurazioni Righello",
   "CONTROLS.RulerMeasure": "Misura Distanza con il Righello",
   "CONTROLS.RulerWaypoint": "Posiziona Punto di Misurazione",
   "CONTROLS.RulerMove": "Sposta il Token sul Percorso Misurato",
   "CONTROLS.RulerWhile": "mentre si misura da un Token",
+
   "CONTROLS.ObjectSheet": "Apri la Scheda dell'Oggetto Referenziato",
   "CONTROLS.ObjectHUD": "Visualizza l'HUD dell'Oggetto (Se Applicabile)",
   "CONTROLS.ObjectConfig": "Apri la Scheda di Configurazione dell'Oggetto",
@@ -217,8 +229,9 @@
   "CONTROLS.WallChain": "Concatena Posizionamento Pareti",
   "CONTROLS.WallSelectChain": "Seleziona Segmenti Concatenati",
   "CONTROLS.DrawingHeader": "Controlli Strumenti di Disegno",
-  "CONTROLS.DrawingTextConfirm": "Conferma Testo",
-  "CONTROLS.DrawingTextCancel": "Annulla Testo",
+  "CONTROLS.DrawingTextConfirm": "Conferma Testo Inserito",
+  "CONTROLS.DrawingTextCancel": "Annulla Testo Inserito",
+
   "ENTITY.Actor": "Personaggio",
   "ENTITY.ChatMessage": "Messaggio Chat",
   "ENTITY.Combat": "Incontro di Combattimento",
@@ -232,6 +245,7 @@
   "ENTITY.User": "Utente",
   "ENTITY.CreateNew": "Crea",
   "ENTITY.TypeHint": "Specifica il tipo di Entità che desideri creare",
+
   "ERROR.ChromiumVersion": "Foundry Virtual Tabletop usa funzionalità moderne di JavaScript features che non sono supportata su versioni di Chromium inferiori a {minimum}. Stai usando la versione {version} di Chromium e potresti riscontrare problemi.",
   "ERROR.LowResolution": "Foundry Virtual Tabletop richiede una risoluzione minima dello schermo di 1366px per 768px o superiore. La tua risoluzione è attualmente {width}px per {height}px. Con le impostazioni di visualizzazione correnti, molte funzioni del software potrebbero non funzionare correttamente.",
   "ERROR.NoWebGL": "Al momento il tuo browser non supporta il rendering WebGL richiesto da Foundry Virtual Tabletop. Assicurati di avere il rendering hardware e WebGL abilitati nel tuo browser.",
@@ -240,10 +254,12 @@
   "ERROR.TokenCollide": "Il tentativo di movimento del Token è bloccato da almeno una Parete.",
   "ERROR.LoadPackages": "La richiesta di connessione al server di Foundry per elencare i pacchetti esistenti non è riuscita. Assicurarsi che l'applicazione consenta connessioni in uscita.",
   "WARNING.GridConfigNoBG": "Stai utilizzando lo strumento di configurazione della griglia per una scena senza immagine di sfondo. Questa operazione non è raccomandata e può produrre risultati imprevedibili.",
+
   "EULA.Acknowledge": "Riconoscimenti",
   "EULA.Agree": "Accetta",
   "EULA.AgreeHint": "Accetto i termini",
   "EULA.Decline": "Rifiuta",
+
   "FILES.CreateDirectory": "Crea Cartella",
   "FILES.TogglePrivacy": "Attiva/disattiva modalità privata",
   "FILES.DisplayMode": "Modalità di visualizzazione",
@@ -259,36 +275,49 @@
   "FILES.TileSizeHint": "Specificare le dimensioni della griglia in pixel dell'immagine di origine in modo che vengano ridimensionate automaticamente quando posizionate sulla scena attiva.",
   "FILES.NoResults": "Nessun risultato corrispondente trovato in questa posizione.",
   "FILES.Upload": "Caricare",
+  "FILES.ErrorTooLarge": "Il file che hai cercato di caricare è troppo grande per essere gestito dal tuo server proxy.",
+  "FILES.ErrorSomethingWrong": "Si è verificato un problema con la richiesta di caricamento del file.",
+  "FILES.WarnUploadModules": "Hai caricato dei file in un modulo o in una directory di sistema. Questo è generalmente <strong>non sicuro</strong> perché gli aggiornamenti al sistema o al modulo elimineranno i tuoi file.",
+
   "GAME.Paused": "Gioco In Pausa",
+
   "INVITATIONS.Copied": "Link di invito al gioco copiato negli appunti",
   "INVITATIONS.Instructions": "Condividi i link qui sotto con gli utenti che desideri partecipino al gioco. Usa il link contrassegnato come 'Rete Locale' per gli utenti all'interno della tua rete, usa invece il link 'Internet' per gli utenti che accedono dall'esterno sulla porta configurata.",
   "INVITATIONS.Internet": "Internet",
   "INVITATIONS.Local": "Rete Locale",
   "INVITATIONS.Title": "Link di Invito al Gioco",
+
   "ITEM.Create": "Nuovo Oggetto",
   "ITEM.Delete": "Elimina Oggetto",
   "ITEM.Search": "Ricerca Oggetti",
   "ITEM.ViewArt": "Visualizza Immagine Oggetto",
+
   "HUD.ToggleVis": "Attiva/Disattiva Visibilità",
   "HUD.ToggleLock": "Attiva/Disattiva Stato Blocco",
   "HUD.ToFront": "Porta in Primo Piano",
   "HUD.ToBack": "Porta in Secondo Piano",
+
+  "JOURNAL.Title": "Annotazioni",
   "JOURNAL.Search": "Ricerca Annotazioni",
   "JOURNAL.Create": "Nuova Nota",
+
   "LIGHT.DarknessThreshold": "Soglia di oscurità",
   "LIGHT.DarknessThresholdHint": "Se viene impostata una soglia di oscurità, questa luce sarà visibile solo quando il livello di oscurità della scena supera tale soglia.",
   "LIGHT.LightColor": "Colore Luce",
   "LIGHT.LightOpacity": "Opacità Luce",
+
   "MACRO.Create": "Crea Macro",
   "MACRO.Delete": "Elimina Macro",
   "MACRO.DeleteConfirm": "<p><strong>Sei sicuro?</strong> La Macro verrà eliminata permanentemente.</p>",
   "MACRO.Execute": "Esegui Macro",
   "MACRO.Save": "Salva Macro",
   "MACRO.Search": "Cerca Macro",
+
   "MENU.Reload": "Ricarica Applicazione",
   "MENU.Logout": "Disconnetti",
   "MENU.Players": "Configura Giocatori",
   "MENU.Setup": "Ritorna al Setup",
+
   "MODMANAGE.Bugs": "Segnalazioni di Bug o Problemi",
   "MODMANAGE.Readme": "Documentazione del Modulo",
   "MODMANAGE.Title": "Gestione Moduli",
@@ -296,6 +325,7 @@
   "MODMANAGE.View": "Di seguito l’elenco dei moduli attivi in questo mondo.",
   "MODMANAGE.None": "Nessun modulo disponibile in questo mondo. È possibile visualizzare, ma non si dispone dell'autorizzazione necessaria a modificare questo elenco.",
   "MODMANAGE.Submit": "Aggiorna Moduli",
+
   "NOTE.AnchorPoint": "Punto di Ancoraggio del Testo",
   "NOTE.ConfigTitle": "Configurazione Note della Mappa",
   "NOTE.EntryIcon": "Icona",
@@ -304,6 +334,7 @@
   "NOTE.IconTint": "Colore Icona",
   "NOTE.TextLabel": "Testo Etichetta",
   "NOTE.Update": "Aggiorna Nota della Mappa",
+
   "PLAYERS.Title": "Giocatori",
   "PLAYERS.CharSelect": "Seleziona Personaggio",
   "PLAYERS.CharRelease": "Rilascia Personaggio",
@@ -316,6 +347,7 @@
   "PLAYERS.Kick": "Espelli Giocatore",
   "PLAYERS.Ban": "Blocca Giocatore",
   "PLAYERS.UnBan": "Sblocca Giocatore",
+
   "PLAYLIST.Create": "Crea Playlist",
   "PLAYLIST.Delete": "Elimina Playlist",
   "PLAYLIST.Edit": "Modifica Playlist",
@@ -337,6 +369,7 @@
   "PLAYLIST.VolPlaylist": "Playlists",
   "PLAYLIST.VolAmbient": "Ambiente",
   "PLAYLIST.VolInterface": "Interfaccia",
+
   "SCENES.Access" : "Accessi",
   "SCENES.AccessHint" : "Controlla l'autorizzazione per questa scena e se appare nella barra di navigazione.",
   "SCENES.Accessibility" : "Accessibilità",
@@ -398,6 +431,7 @@
   "SCENES.Width" : "Larghezza",
   "SCENES.WeatherEffect" : "Effetti Meteo",
   "SCENES.WeatherEffectHint" : "Configura gli effetti atmosferici applicati alla scena.",
+
   "SETTINGS.Configure": "Impostazioni",
   "SETTINGS.Controls": "Controlli di Gioco",
   "SETTINGS.Docs": "Mostra Documentazione",
@@ -430,6 +464,7 @@
   "SETTINGS.TabModule": "Impostazioni Modulo",
   "SETTINGS.TabSystem": "Impostazioni di Sistema",
   "SETTINGS.None": "Non ci sono impostazioni di questo tipo che puoi configurare.",
+
   "SETUP.CoreVersion": "Versione Software Principale",
   "SETUP.CoreVersionHint": "Se è disponibile un aggiornamento a Foundry Virtual Tabletop, è possibile applicarlo qui. Attualmente stai utilizzando la versione {coreVersion}.",
   "SETUP.SettingsHeader": "Configurazione Programma",
@@ -462,6 +497,7 @@
   "SETUP.RequireSystem": "Richiede Aggiornamento di Sistema",
   "SETUP.RequireDep": "Richiede Dipendenza",
   "SETUP.RequireCore": "Richiede Aggiornamento Principale",
+
   "SETUP.CompatibilityUnknown": "Compatibilità Non Specificata",
   "SETUP.CompatibilityRisk": "Rischio Incompatibilità",
   "SETUP.ManifestURL": "Manifest URL",
@@ -477,6 +513,7 @@
   "SETUP.UpdateFailure": "Aggiornamento non riuscito. Per ulteriori dettagli, consultare i messaggi di errore nella console.",
   "SETUP.PackageFilter": "Filtra i Pacchetti",
   "SETUP.PackageFilterHint": "Puoi filtrare i pacchetti disponibili, cercando per nome o titolo del pacchetto",
+
   "SETUP.AdminAccess": "Foundry Virtual Tabletop &bull; Accesso amministratore",
   "SETUP.AdminKeyLabel": "Chiave di Accesso dell'Amministratore",
   "SETUP.AdminKeyHint": "È possibile assegnare una chiave di accesso speciale necessaria per accedere a questa schermata di configurazione.",
@@ -493,15 +530,18 @@
   "SETUP.SSLCertLabel": "Certificato SSL",
   "SETUP.SSLKeyLabel": "Chiave Privata SSL",
   "SETUP.SSLHint": "È possibile eseguire il server utilizzando la crittografia SSL (Secure Socket Layer) fornendo i percorsi ai certificati e alle chiavi. I percorsi sono assoluti o relativi alla sottodirectory Config nei dati utente.",
+
   "SHEETS.EntitySheetHint": "Sostituisci la scheda che desideri utilizzare per questa specifica entità.",
   "SHEETS.TypeSheetHint": "Impostare la scheda predefinita utilizzata per questo tipo di entità (Solo DM).",
   "SHEETS.Save": "Salva Configurazione Scheda",
+
   "SIDEBAR.CharArt": "Mostra Immagine Personaggio",
   "SIDEBAR.CollapseToggle": "Comprimi o espandi",
   "SIDEBAR.Delete": "Elimina",
   "SIDEBAR.DeleteConfirm": "<h3>Sei sicuro?</h3><p>Questa entità sarà <strong>eliminata permanentemente</strong>.</p>",
   "SIDEBAR.Duplicate": "Duplica",
   "SIDEBAR.Export": "Esporta Dati",
+
   "FOLDER.Clear": "Cancella Cartella",
   "FOLDER.Color": "Colore Cartella",
   "FOLDER.Create": "Nuova Cartella",
@@ -513,6 +553,7 @@
   "FOLDER.Remove": "Rimuovi Cartella",
   "FOLDER.RemoveConfirm": "<h3>Sei sicuro?</h3><p>Questa cartella verrà eliminata e il suo contenuto verrà spostato nella cartella principale.</p>",
   "FOLDER.Update": "Aggiorna Cartella",
+
   "PERMISSION.AllPlayers": "Tutti i Giocatori",
   "PERMISSION.Configure": "Configura Autorizzazioni",
   "PERMISSION.ConfigureLabel": "Apri la Configurazione delle Autorizzazioni",
@@ -556,6 +597,7 @@
   "PERMISSION.WallDoors": "Apri/Chiudi Porte",
   "PERMISSION.WallDoorsHint": "Consenti ai giocatori con questo ruolo di interagire con le porte definite sul livello pareti.",
   "SIDEBAR.Import": "Importa Dati",
+
   "SIDEBAR.Permissions": "Configura Permessi",
   "SIDEBAR.SceneCreate": "Nuova Scena",
   "SIDEBAR.SceneSearch": "Ricerca Scene",
@@ -571,6 +613,7 @@
   "SIDEBAR.TabTables": "Tabelle Dinamiche",
   "SIDEBAR.TokenArt": "Mostra Immagine Token",
   "SIDEBAR.JumpPin": "Vai al Pin",
+
   "TABLE.AnimateSetting": "Animare le Tabelle Dinamiche?",
   "TABLE.AnimateSettingHint": "Configurare se visualizzare un'animazione in stile roulette quando si tira su una Tabella.",
   "TABLE.Create": "Nuova Tabella",
@@ -591,11 +634,15 @@
   "TABLE.Roll": "Tiro",
   "TABLE.ToggleDrawn": "Attiva/disattiva stato visualizzato",
   "TABLE.Update": "Aggiorna",
+
   "TEMPLATE.ConeTypeSetting": "Modelli di Cono",
   "TEMPLATE.ConeTypeSettingHint": "Scegli come definire l'area di effetto per i modelli di cono.",
   "TEMPLATE.ConeTypeFlat": "Piatto",
   "TEMPLATE.ConeTypeRound": "Arrotondato",
+
   "TOKEN.Assign": "Assegna Token",
+  "TOKEN.AssignWarn": "È necessario selezionare un token esistente da assegnare come nuova configurazione del prototipo.",
+  "TOKEN.AssignSuccess": "La configurazione del token prototipo è stata aggiornata per {nome}",
   "TOKEN.BarAttributes": "Barra degli Attributi",
   "TOKEN.BarValues": "Valori Singoli",
   "TOKEN.CharActor": "Personaggio Rappresentato",
@@ -633,6 +680,7 @@
   "TOKEN.HOSTILE": "Ostile",
   "TOKEN.NEUTRAL": "Neutrale",
   "TOKEN.FRIENDLY": "Amichevole",
+
   "USER.RoleNone": "Nessuno",
   "USER.RolePlayer": "Giocatore",
   "USER.RoleTrusted": "Giocatore Fidato",
@@ -644,6 +692,7 @@
   "USERS.Create": "Crea Utente Aggiuntivo",
   "USERS.Delete": "Elimina Utente",
   "USERS.Launch": "Avvia Sessione di Gioco",
+
   "WALLS.Title": "Configurazioni Parete",
   "WALLS.TitleMany": "Configurazione Parete [Multipla]",
   "WALLS.Instructions": "Personalizza il modo in cui questo segmento di muro limita il movimento o i sensi",
@@ -654,8 +703,10 @@
   "WALLS.Door": "E' una Porta?",
   "WALLS.DoorState": "Stato della Porta",
   "WALLS.Submit": "Aggiorna Parete",
+
   "WORLD.DetailTab": "Dettaglio Mondo",
   "WORLD.DescTab": "Descrizione Mondo",
+
   "WEBRTC.Title": "Configurazione Audio/Video",
   "WEBRTC.MenuLabel": "Configura Audio/Video",
   "WEBRTC.MenuHint": "Configurare le impostazioni specifiche all'audio/video WebRTC integrato",
@@ -704,6 +755,7 @@
   "WEBRTC.VoiceAlways": "Sempre Abilitata",
   "WEBRTC.VoiceActivity": "Attivazione Voce",
   "WEBRTC.VoicePTT": "Push-to-Talk",
+
   "WEBRTC.TooltipAllowUserVideo": "Consenti Video Utente",
   "WEBRTC.TooltipBlockUserVideo": "Blocca Video Utente",
   "WEBRTC.TooltipAllowUserAudio": "Consenti Audio Utente",
@@ -714,6 +766,7 @@
   "WEBRTC.TooltipDisableMyAudio": "Disattiva Audio",
   "WEBRTC.TooltipMutePeers": "Disattiva l'Audio degli Altri",
   "WEBRTC.TooltipUnmutePeers": "Attiva l'Audio degli Altri",
+
   "WEBRTC.TooltipHidePlayers": "Nascondi l'Elenco dei Giocatori",
   "WEBRTC.TooltipChangeSize": "Ruota Dimensione Video",
   "WEBRTC.CaptureWarningVideo": "Impossibile acquisire dai tuoi dispositivi audio; Condivisione solo di video",
