@@ -21,6 +21,7 @@ build:
   artifacts:
     name: it-IT
     when: on_success
+    expire_in: never
     paths:
       - it-IT.zip
   when: on_success

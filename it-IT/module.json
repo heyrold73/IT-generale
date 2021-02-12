@@ -2,9 +2,9 @@
   "name": "FoundryVTT - it-IT",
   "title": "Italian Translation",
   "description": "Add Italian language to FoundryVTT.",
-  "version": "0.16",
+  "version": "0.17",
   "minimumCoreVersion" : "0.7.4",
-  "compatibleCoreVersion":"0.7.7",
+  "compatibleCoreVersion":"0.7.9",
   "author": "Simone",
   "scripts": [],
   "styles": [],
@@ -18,5 +18,5 @@
     
   "url": "https://gitlab.com/riccisi/foundryvtt-lang-it-it",
   "manifest": "https://gitlab.com/riccisi/foundryvtt-lang-it-it/raw/master/it-IT/module.json",
-  "download": "https://gitlab.com/riccisi/foundryvtt-lang-it-it/-/jobs/artifacts/0.16/raw/it-IT.zip?job=build"
+  "download": "https://gitlab.com/riccisi/foundryvtt-lang-it-it/-/jobs/artifacts/0.17/raw/it-IT.zip?job=build"
 }
