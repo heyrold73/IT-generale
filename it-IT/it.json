@@ -823,7 +823,7 @@
 "SETUP.InstallHint": "È possibile installare un pacchetto fornendo un collegamento al suo JSON manifest.",
 "SETUP.InstallModule": "Installa Modulo",
 "SETUP.InstallSystem": "Installa Sistema",
-"SETUP.InstallSuccess": "installato correttamente",
+"SETUP.InstallSuccess": "{type} {name} installato correttamente",
 "SETUP.InstallFailure": "Installazione fallita. Per ulteriori dettagli, consultare i messaggi di errore nella console.",
 "SETUP.InstallWorld": "Installa Mondo di Gioco",
 "SETUP.UninstallSuccess": "disinstallato correttamente",
