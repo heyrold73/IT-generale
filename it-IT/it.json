@@ -794,7 +794,7 @@
 "MODMANAGE.FilterAll": "Tutti i Moduli",
 "MODMANAGE.FilterActive": "Moduli Attivi",
 "MODMANAGE.FilterInactive": "Moduli Disabilitati",
-"MODMANAGE.Build": "Costruire",
+"MODMANAGE.Build": "Build",
 
 "NOTE.AnchorPoint": "Punto di Ancoraggio del Testo",
 "NOTE.ConfigTitle": "Configurazione Note della Mappa",
@@ -1355,6 +1355,8 @@
 
 "TABLE.AnimateSetting": "Animare le Tabelle Dinamiche?",
 "TABLE.AnimateSettingHint": "Configurare se visualizzare un'animazione in stile roulette quando si tira su una Tabella.",
+"TABLE.DrawFlavor": "Risultato del tiro sulla tabella {name}",
+"TABLE.DrawFlavorPlural": "{number} risultati del tiro sulla tabella {name}",
 "TABLE.Description": "Descrizione Tabella",
 "TABLE.DisplayRoll": "Visualizza il tiro nella Chat?",
 "TABLE.Formula": "Formula per il Tiro",
@@ -1399,6 +1401,13 @@
 "TILE.VideoLoop": "Loop Video",
 "TILE.VideoAutoplay": "Autoplay Video",
 "TILE.VideoVolume": "Volume Video",
+
+"TIME.Now": "Adesso",
+"TIME.SecondsAbbreviation": "s",
+"TIME.MinutesAbbreviation": "m",
+"TIME.HoursAbbreviation": "o",
+"TIME.DaysAbbreviation": "g",
+"TIME.Since": "{since} fa",
 
 "TOKEN.HeaderIdentity": "Identità",
 "TOKEN.HeaderAppearance": "Aspetto",
