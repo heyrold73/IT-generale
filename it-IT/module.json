@@ -1,13 +1,20 @@
 {
-  "name": "translation-core-it",
+  "id": "translation-core-it",
   "title": "Core Italian Translation",
   "description": "Add Italian language to FoundryVTT core.",
-  "version": "0.30",
-  "minimumCoreVersion": "9",
-  "compatibleCoreVersion": "9",
+  "version": "0.31",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10.283",
+    "maximum": "10"
+  },
   "coreTranslation": true,
 
-  "author": "Simone",
+  "authors": [{
+    "name": "Simone",
+    "discord": "Simone [UTC +1]#6710"
+  }],
+
   "scripts": [],
   "styles": [],
   "packs": [],
@@ -20,5 +27,5 @@
     
   "url": "https://gitlab.com/riccisi/foundryvtt-lang-it-it",
   "manifest": "https://gitlab.com/riccisi/foundryvtt-lang-it-it/raw/master/it-IT/module.json",
-  "download": "https://gitlab.com/riccisi/foundryvtt-lang-it-it/-/jobs/artifacts/0.30/raw/it-IT.zip?job=build"
+  "download": "https://gitlab.com/riccisi/foundryvtt-lang-it-it/-/jobs/artifacts/0.31/raw/it-IT.zip?job=build"
 }
