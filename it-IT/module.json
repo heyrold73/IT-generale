@@ -1,34 +1,29 @@
 {
   "id": "translation-core-it",
   "title": "Core Italian Translation",
-  "description": "Add Italian language to FoundryVTT core.",
-  "version": "1.1.0",
+  "description": "Aggiunge il Linguaggio Italiano a FoundryVTT.",
+  "version": "1.1.2",
   "compatibility": {
     "minimum": "10",
-    "verified": "10.283",
-    "maximum": "10"
+    "verified": "11.315",
+    "maximum": "12"
   },
   "coreTranslation": true,
-
   "authors": [
     {
       "name": "Heyrold",
-      "discord": "Heyrold#4406"
+      "discord": "Heyrold#4406",
+      "flags": {}
     }
   ],
-
-  "scripts": [],
-  "styles": [],
-  "packs": [],
-
   "languages": [
     {
       "lang": "it",
       "name": "Italian",
-      "path": "it.json"
+      "path": "it.json",
+      "flags": {}
     }
   ],
-
   "url": "https://github.com/heyrold73/IT-generale",
   "manifest": "https://github.com/heyrold73/IT-generale/releases/latest/download/module.json",
   "download": "https://github.com/heyrold73/IT-generale/releases/latest/download/module.zip"
